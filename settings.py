@@ -1,0 +1,20 @@
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    # ERP Modules
+    'inventory',
+    'sales',
+    'purchases',
+    'crm',
+    'finance',
+    'hr',
+    'projects',
+    'analytics',
+    'logistics',
+    'user_management',
+    'settings',
+]
